@@ -1,0 +1,11 @@
+git config --global user.email "deepz2k4@gmail.com"
+git config --global user.name "Deepan20"
+git init
+git add .
+git commit -m "Comprehensive Assignment"
+git branch SDET
+git checkout SDET
+git remote add origin https://github.com/Deepan20/SDET-Comprehensive-Assignment.git
+git push -u origin SDET
+
+Github link : https://github.com/Deepan20/SDET-Comprehensive-Assignment.git
