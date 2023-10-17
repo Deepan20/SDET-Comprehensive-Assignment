@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MakeMyTrip.java&apos; to &apos;3_TestNG_Program/src/test/java/Pages&apos;&#x0D;&#x0A;- Original project: &apos;7_MakeMyTrip&apos;&#x0D;&#x0A;- Destination element: &apos;3_TestNG_Program/src/test/java/Pages&apos;&#x0D;&#x0A;- Original element: &apos;Pages.MakeMyTrip.java&apos;" description="Copy compilation unit" destination="=3_TestNG_Program/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;Pages" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;Pages{MakeMyTrip.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1697479084893" units="1" version="1.0"/>
+</session>
