@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
 public class Maven_Program extends TestBase{
-	@Test(priority = 1)
+	@Test(priority = 1, enabled =false)
 	public void AmazonPrice() throws InterruptedException {
 		driver.get("https://www.amazon.in/");
 		ap.getSearchBtn().sendKeys("iphone");
@@ -19,7 +19,7 @@ public class Maven_Program extends TestBase{
 	}
 	
 	
-	@Test(priority = 2)
+	@Test(priority = 2 , enabled =false)
 	public void MyTrip() throws InterruptedException {
 		driver.get("https://www.makemytrip.com/");
 		WebDriverWait wait = new WebDriverWait(driver, 40);
